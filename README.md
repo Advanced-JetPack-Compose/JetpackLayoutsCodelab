@@ -11,7 +11,7 @@ Prerequisites
 
 What you'll learn
 --------------
-In this codelab, you will learn:
+In this codelab, I learned:
 
 - How to use Material components composables
 - What modifiers are and how you can use them in layouts
